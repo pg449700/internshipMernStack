@@ -132,7 +132,7 @@ Protected routes additionally pass through `protect` (JWT decoding and user veri
 ## Repository Layout
 
 ```text
-internshipMernStack/
+modular-mern-starter/
 ├── LICENSE                                     # MIT Open-Source License
 ├── README.md                                   # Comprehensive Library & Architecture Guide
 ├── backend/
@@ -191,8 +191,8 @@ internshipMernStack/
 ### 2. Clone Repository
 
 ```bash
-git clone https://github.com/pg449700/internshipMernStack.git
-cd internshipMernStack
+git clone https://github.com/pg449700/modular-mern-starter.git
+cd modular-mern-starter
 ```
 
 ### 3. Backend Configuration & Dependencies
@@ -468,11 +468,11 @@ npx newman run postman/ElectroTech_API.postman_collection.json \
 
 Active roadmap initiatives tracked in GitHub Issues:
 
-- [#1 - Integrate Stripe / PayPal Payment Gateway Processing](https://github.com/pg449700/internshipMernStack/issues/1) *(enhancement)*
-- [#2 - Implement Refresh Token Rotation and HTTP-Only Cookie Storage](https://github.com/pg449700/internshipMernStack/issues/2) *(enhancement)*
-- [#3 - Generate OpenAPI / Swagger Specification and Interactive API Docs](https://github.com/pg449700/internshipMernStack/issues/3) *(documentation, good first issue)*
-- [#4 - Add Multi-Container Docker and Docker-Compose Configuration](https://github.com/pg449700/internshipMernStack/issues/4) *(enhancement, good first issue)*
-- [#5 - Set Up GitHub Actions CI Workflow for Newman API Tests and Linting](https://github.com/pg449700/internshipMernStack/issues/5) *(enhancement)*
+- [#1 - Integrate Stripe / PayPal Payment Gateway Processing](https://github.com/pg449700/modular-mern-starter/issues/1) *(enhancement)*
+- [#2 - Implement Refresh Token Rotation and HTTP-Only Cookie Storage](https://github.com/pg449700/modular-mern-starter/issues/2) *(enhancement)*
+- [#3 - Generate OpenAPI / Swagger Specification and Interactive API Docs](https://github.com/pg449700/modular-mern-starter/issues/3) *(documentation, good first issue)*
+- [#4 - Add Multi-Container Docker and Docker-Compose Configuration](https://github.com/pg449700/modular-mern-starter/issues/4) *(enhancement, good first issue)*
+- [#5 - Set Up GitHub Actions CI Workflow for Newman API Tests and Linting](https://github.com/pg449700/modular-mern-starter/issues/5) *(enhancement)*
 
 ---
 
