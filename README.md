@@ -468,11 +468,11 @@ npx newman run postman/ElectroTech_API.postman_collection.json \
 
 Active roadmap initiatives tracked in GitHub Issues:
 
-- [#1 - Integrate Stripe / PayPal Payment Gateway Processing](https://github.com/pg449700/internshipMernStack/issues) *(enhancement)*
-- [#2 - Implement Refresh Token Rotation and HTTP-Only Cookie Storage](https://github.com/pg449700/internshipMernStack/issues) *(enhancement)*
-- [#3 - Generate OpenAPI / Swagger Specification and Interactive API Docs](https://github.com/pg449700/internshipMernStack/issues) *(documentation, good first issue)*
-- [#4 - Add Multi-Container Docker and Docker-Compose Configuration](https://github.com/pg449700/internshipMernStack/issues) *(enhancement, good first issue)*
-- [#5 - Set Up GitHub Actions CI Workflow for Newman API Tests and Linting](https://github.com/pg449700/internshipMernStack/issues) *(enhancement)*
+- [#1 - Integrate Stripe / PayPal Payment Gateway Processing](https://github.com/pg449700/internshipMernStack/issues/1) *(enhancement)*
+- [#2 - Implement Refresh Token Rotation and HTTP-Only Cookie Storage](https://github.com/pg449700/internshipMernStack/issues/2) *(enhancement)*
+- [#3 - Generate OpenAPI / Swagger Specification and Interactive API Docs](https://github.com/pg449700/internshipMernStack/issues/3) *(documentation, good first issue)*
+- [#4 - Add Multi-Container Docker and Docker-Compose Configuration](https://github.com/pg449700/internshipMernStack/issues/4) *(enhancement, good first issue)*
+- [#5 - Set Up GitHub Actions CI Workflow for Newman API Tests and Linting](https://github.com/pg449700/internshipMernStack/issues/5) *(enhancement)*
 
 ---
 
