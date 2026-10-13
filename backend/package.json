@@ -2,6 +2,7 @@
   "name": "electrotech-backend",
   "version": "1.0.0",
   "description": "ElectroTech MERN Stack Store Backend API",
+  "license": "MIT",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
